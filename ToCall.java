@@ -1,2 +1,3 @@
-package PACKAGE_NAME;public interface ToCall {
+public interface ToCall {
+    public void toCallTo(Phone phoneToCall);
 }
